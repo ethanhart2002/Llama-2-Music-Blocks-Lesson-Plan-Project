@@ -1,0 +1,75 @@
+Music Blocks Lesson Plan
+Intervals
+Age:
+7-12 years.
+Lesson duration:
+90 minutes
+Introduction: Count by one, by two, by three... (10m)
+Part 1: Interval exercise (20m)
+Break (5m)
+Part 2: Composing with intervals (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about intervals on a number line. Then they’ll refine their listening skills by identifying intervals in music. They will then use these skills to express themselves musically. Finally, they will use observational and compositional skills to explore these musical concepts.
+Objectives:
+Students will understand what is meant by intervals in mathematics and in music. Students will be able to utilize intervals in programming and in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about the mathematical and musical concepts of interval.
+
+Start by going around in a circle counting off numbers: 1 2 3 4 5… Explain that the interval (difference between) each number is 1. Next count by 2s: 2 4 6 8… Then 3s, 4s, 5s…
+
+Next, using a keyboard (or the Music Blocks keyboard widget) play some intervals: do, re, mi…
+do, mi, sol,...
+
+Can the students hear the change in interval? Can they guess the interval step size?
+Part 1:
+The Step Pitch Block
+1. Ask the students to drag the Step-Pitch Block from the Pitch Palette.
+2. Have them guess as to what it might do.
+3. Have them use the block inside of a Note Block that is inside of a Repeat block and listen to the sound that is created.
+4. What happens when the step size changes?
+
+Break
+Part 2
+A. Scalar Transposition Block
+1. Create a musical phrase in the Phrase Maker and save it to an Action Block.
+2. Drag a “Fourth” block from the Pitch Palette. It turns into a Scalar Transpose Block.
+3. Put your action inside the Scalar Transpose Block. What happens?
+4. Play with different values for the transposition.
+
+B. Scalar Interval Block
+1. Drag a “Fourth” block from the Intervals Palette. It turns into a Scalar Interval Block.
+2. Put your action inside the Scalar Interval Block. What happens?
+3. Play with different values for the interval.
+4. What is the difference between transposition and interval?
+
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about intervals: Is it fun? Is it musical? Is it interesting? Does it get boring? How would you change it?
+
+Extras:
+Experiment with different modes and keys.
+Explore color intervals.
+
+Key events:
+Introduction of key concept: interval and transpose.
+Ask students to “hear” intervals..
+The students create their own programs
+
+Materials:
+Music Blocks software
+Instrument to demonstrate intervals (optional)
+
+Assessment:
+Observe participation.
+Do the compositions include intervals?
+
+
+
+
+
+
+© Copyright Walter Bender, 2020

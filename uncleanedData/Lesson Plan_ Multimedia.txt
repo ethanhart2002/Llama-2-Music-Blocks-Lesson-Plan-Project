@@ -1,0 +1,115 @@
+Music Blocks Lesson Plan
+Multimedia
+Age:
+7-12 years
+Lesson duration:
+60 minutes
+Introduction: What is a slide show? (15m)
+Part 1: A basic slideshow (20m)
+Break (5m)
+Part 2: Embellishments (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn how easy it is to program presentations (a la PowerPoint™).
+Objectives:
+Students will understand how presentation software works and build their own, incorporating images and music. Students will explore various approaches and compare them in terms of efficiency, flexibility, and utility.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about presentation software.
+
+Start off by asking: “What is a slideshow?”
+
+Discuss what components in Music Blocks they might use to create a slideshow: e.g., the Show Block.
+
+Explain that there are many ways to create a slideshow and that we’ll explore several, all of which include music.
+Part 1:
+A. A basic slideshow.
+1. Using a series of Show Blocks (from the Media palette), create a slideshow.
+
+
+
+What happens when you run this program? How can we improve it?
+
+2. Try adding some music after each image is shown.
+
+
+
+What difference does it make to add music?
+
+B. Some enhancements
+When we run the slideshow as programmed above, the mouse is always in the middle of the images. How can we move it out of the way?
+
+
+
+The Set XY Block can be used to move the mouse after each slide is shown.
+
+Why do we need to set the XY position back to 0, 0 before showing each block?
+Why do we use the Pen Up Block?
+Break
+Part 2
+Enhancements
+The approach above works, but it is a bit repetitive and cumbersome. We can use actions to consolidate your code.
+
+Here is one approach: we store each image in a box and call an action to show it.
+
+
+
+Another approach is to use an arg block.
+
+
+We can have some more fun by adding a second argument for choosing the melody for each image.
+
+
+Note that we use a Do Block to run the action associated with Arg 2, the name of the melody.
+
+A different approach is to use the heap.
+
+
+
+We use Box 1 to keep track of which image on the heap to display. In our forever loop, we add 1 to Box 1 each time through the loop. If Box 1 is greater than the length of our heap (the length of the heap is the same as the number of images in our slideshow), then we set Box 1 to 1.
+
+Using the heap is a bit more complicated than the other approaches, but it leads us to using a button to interactively advance the slides.
+
+
+
+In a second Start Block, we can create a button. Each time it is clicked, it will call the “next” action, which broadcasts “event”.
+
+
+
+Our first Start Block now includes an On Block, which is set up to listen for “event”. Whenever there is an “event”, the “show” action is called. We’ve moved the code to add 1 to Box 1 into the “next” action as well.. (We use Box 2 to save the length of the heap, since the heap is “private” to each Mouse.)
+
+Note that we have added a “no clock” block around the call to the “melody” action. This is because we don’t know when the button will be pressed, hence we cannot rely on the master clock to maintain the rhythm.
+
+
+Performance/Critique:
+1. Have each student show their slide show.
+2. Engage in a discussion about their different approaches.
+Key events:
+Introduction of key concepts: events, function arguments, the heap, variables.
+The students create their own interactive programs.
+
+Materials:
+Music Blocks software
+
+
+Assessment:
+Observe participation.
+Do the slideshows run as expected, with music on each slide?
+
+
+
+
+
+
+
+
+© Copyright Walter Bender, 2020
+
+
+
+
+
+
+

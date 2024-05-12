@@ -1,0 +1,98 @@
+Music Blocks Lesson Plan
+Exploring Chance
+Age:
+7-12 years
+Lesson duration:
+90 minutes
+Introduction: Coin Flip exercise (10m)
+Part 1: One-of-This-or-That exercise (20m)
+Break (5m)
+Part 2: Action exercise (20m)
+Break (5m)
+Part 3: Musical Galton exercise (20m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about random chance (flipping a coin). They’ll refine their listening skills by identifying randomness in music. They will then use these skills to express themselves musically. Finally, they will use observational and compositional skills to explore these musical concepts.
+Objectives:
+Students will learn about tallying. Students will understand what is meant by probability in mathematics and expectation in music. Students will be able to utilize chance in programming and in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about the mathematical concept of chance.
+
+Start by giving each child a coin and have them tally the results of flipping it 10 times. Discuss the results. Are they always the same number of Heads as Tails? Is there any dependency between one result and another?
+Part 1:
+One of this or that
+1. Ask the students to drag the One-of-This-or-That Block from the Numbers Palette.
+2. Have them guess as to what it might do.
+3. Have them use the block inside of a Note Block and listen to the sound that is created. Can they hear the difference between Do and Re?
+4. Put the Note Block inside of a Repeat Block and Repeat 10 times. Ask the students to tally the notes that they hear. Are there always the same number of Dos as Res?
+Break
+Part 2
+A. Actions
+1. Create two Action Blocks, one labeled Heads and one labeled Tails.
+2. Drag two String Blocks from the Media Palette and rename them Heads and Tails.
+3. Use the Media Blocks as the arguments to the One-of-This-or-That Block.
+4. Drag the Do Block from the Action Palette and insert the One-of-This-or-That Block. Ask the students to guess what the Do Block will do.
+5. Put different Note Blocks inside of the actions. Observe what happens?
+B. Avatar
+6. Drag two Avatar Blocks from the Media Palette
+7. Load an image representing Heads and Tails into each Avatar.
+8. Add the Avatar blocks to the Note Blocks inside the Heads and Tails Actions.
+Break
+Part 3:
+A. Galton Box
+1. Introduce the Set-Heading Block from the Graphics Palette.
+2. Experiment with different values.
+3. Put a Set-Heading Block inside each Note Block, using different values for each (try 135 and 225).
+4. Add a Forward Block after each Set-Heading Block.
+
+B. Scale Step
+4. Drag a Scalar-Step Block from the Pitch Palette.
+5. Explain that the Scalar-Step Block goes up (or down) the scale.
+6. Replace the Pitch block inside of each Note Block with either a Scalar Step +1 or Scalar Step -1,
+7. Add a Note Block with a pitch set to Do before the Repeat Block.
+8. Observe and discuss what happens.
+9. Experiment.
+
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about the randomness: Is it fun? Is it musical? Is it interesting? Does it get boring? How would you change it?
+
+Extras:
+Count the coin flips using Boxes.
+Experiment with different modes and keys.
+Plot the statistics.
+Compose using randomness.
+
+Key events:
+Introduction of key concepts- chance and scalar step.
+Ask students to observe and tally their results.
+The students create their own programs
+
+Materials:
+Coins
+Paper and pencil for tally
+Music Blocks software
+
+Assessment:
+Observe participation.
+Examine the tallying.
+Do the compositions include randomness?
+
+
+
+
+
+
+Coin flip
+
+
+
+Galton
+
+(Sample student project)
+
+
+© Copyright Walter Bender, 2020

@@ -1,0 +1,103 @@
+Music Blocks Lesson Plan
+Quiet/Loud
+
+Age:
+7-12 years
+Lesson duration:
+60 minutes
+Introduction: Discussion of different qualities of sound in music (15m)
+Part 1: Using volume blocks (15m)
+Break (5m)
+Part 2: Using crescendo (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about the role of volume in music.
+
+Objectives:
+Students will understand the different ways in which volume can be used in a composition and different ways to implement those techniques in Music Blocks.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about volume.
+
+Start off by having each student describe ways in which sound can differ: timbre, rhythm, pitch, volume, et al.
+
+How are they different? Can they come up with examples from their favorite music?
+
+Discuss different ways in which volume might be used: to change the overall (master) volume; to change the relative volume between voices; to change the relative volume between phrases; to change the relative volume between beats; to change the volume over time. Are there others?
+
+Fun Fact: The modern "piano" used to be called "piano-forte", which means "quiet-loud". It was the first keyboard instrument to be able to play both quiet and loud.
+Part 1:
+A. Master volume/synth volume
+1. Open the volume palette and drag out the Set Master-volume Block. Explore using different values from 1 to 100.
+
+
+2. Next we’ll explore the Synth-volume Block. It only changes the volume of one voice.
+
+
+
+3. Using two different Start Blocks and two different instruments, explore different relative volumes. Do you hear the difference?
+
+B. Volume and beat.
+1. Create a rhythm using the Rhythm Ruler.
+
+2. Save out the drum action associated with your rhythm.
+
+3. Create an action call “loud” in which you put a Set Drum-volume Block. Be sure to select the same drum as you used in your drum rhythm.
+
+4. Set the volume to 100.
+
+5. Create an action call “quiet” in which you put a Set Drum-volume Block. Be sure to select the same drum as you used in your drum rhythm.
+
+6. Set the volume to 20.
+
+7. Grab an On Strong-beat Block from the Meter palette. Use the “loud” action for your strong beat.
+
+8. Also grab an On Weak-beat Block. Use the “quiet” action for your weak beat.
+
+9. What happens if you add another On Strong-beat Block?
+
+
+ 
+
+Break
+Part 2
+A. Crescendo
+1. The Crescendo block will gradually modify the volume of a sequence of notes.
+
+Explore using crescendo and decrescendo.
+
+B. Synth Volume
+1. You can use the Synth Volume Block to get the current volume. Try using it to change the color, shade, pen size, etc.
+
+
+C. Explore
+1. Have the students explore on their own.
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about volume. Are there other ways to use it?
+
+Key events:
+Introduction of key concept: Volume
+The students create their own compositions.
+
+Materials:
+Music Blocks software
+
+Assessment:
+Observe participation.
+Do the compositions include creative use of volume?
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright Walter Bender, 2020

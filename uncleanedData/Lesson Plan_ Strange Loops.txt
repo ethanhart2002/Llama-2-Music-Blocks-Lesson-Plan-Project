@@ -1,0 +1,80 @@
+Music Blocks Lesson Plan
+Strange Loops
+Age:
+7-12 years
+Lesson duration:
+90 minutes
+Introduction: Strange Loops Singing Game (15m)
+Part 1: Recursion (10m)
+Break (5m)
+Part 2: Interaction (20m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will build upon the concept of recursion to explore different ways to create loops in music.
+Objectives:
+Students will understand what is meant by recursion and explore their own ideas on how to use recursion in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to explore the “strange” loops.
+
+Go around the circle, assigning each student to a phrase in a popular song, e.g., Frere Jacques or Row Row Row Your Boat. Have each student sing their phrase.
+
+Next, tell each student that when they hear their name called, they must sing their phrase. Then ask each student to say the name of another student after singing their phrase. Start the loop by calling out the name of one of the students.
+
+Have the students discuss what they heard. How did the song progress from one phrase to another?
+
+Add a twist to the performance by asking each student to choose two different names to call out after they sing their phrase. You can ask them to choose randomly (e.g., flipping a coin: “heads” means “Teddy” and “tails” means “Henry”) or you could “conduct” the performance by selecting “heads” or “tails” for them.
+
+Again, have the students discuss what they heard. How did the song progress from one phrase to another?
+
+Part 1:
+Exploring recursion in Music Blocks.
+
+Remind the students that their phrases can be programmed as Actions in Music Blocks. How would they have an action call another action?
+
+
+In this example, the Teddy action is called from the Henry action and the Henry action is called from the Teddy action.
+
+Why will the song play “forever” without using a forever block?
+
+Explore creating your own loops.
+
+Part 2
+Variations
+Can you come up with ways to introduce some variations in the music?
+
+
+You can add some randomness.
+
+
+
+Or make the performance interactive.
+
+
+And the song can change over time.
+
+Performance/Critique:
+1. Have each student perform their compositions, explaining how they used recursion.
+2. Engage in a discussion about more things they could do with recursion.
+3. Ask about the difference between using recursion and other ways to create loops?
+
+Key events:
+Introduction of key concept: recursion
+The students create their own programs using recursion.
+
+Materials:
+Music Blocks software
+
+
+Assessment:
+Observe participation.
+Do the programs include recursive elements?
+Are they used creatively?
+
+
+
+
+© Copyright Walter Bender, 2020
+

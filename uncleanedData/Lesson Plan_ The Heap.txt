@@ -1,0 +1,89 @@
+Music Blocks Lesson Plan
+The Heap
+Age:
+7-12 years
+Lesson duration:
+90 minutes
+Introduction: Piling on (15m)
+Part 1: Record and Playback exercise (15m)
+Break (5m)
+Part 2: Composing with the Heap (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about the concept of a heap. Then they’ll use the heap to record and playback interactive music. Finally, they will use observational and compositional skills to explore the heap in exploring additional musical concepts.
+Objectives:
+Students will understand what is meant by a heap in computation and how it can be used in  music. Students will be able to utilize heaps in programming and in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about heaps.
+
+Start with a single sheet of paper. Ask a student to write a number on the paper and place it in the center of the circle. Continue adding paper, creating a pile, until each student has added at least two sheets of paper (with numbers) to the pile.
+
+Explain that in Music Blocks, the pile is called a “heap”.
+When you add to the heap you are “pushing”.
+
+Ask the students what number is on the sheet of paper at the top of the heap?
+Is the top the first or last number that was added?
+Ask a student to take the top sheet of paper off of the heap. This is called “popping”.
+What is the number on the sheet?
+What is the number on the top of the heap?
+
+Discuss “first in/last out” (FILO) and “first in/first out” (FIFO). Which best describes the heap? Why?
+
+Part 1:
+A. The Push Block/The Pop Block
+1. Ask the students to drag the Push Block from the Heap Palette. (They’ll need to be in “Advanced Mode” to access the Heap Palette.)
+2. Have them guess as to what it might do.
+3. Have them use the Push Block inside of a Repeat Block. Also include a Show Heap Block.
+4. What happens to the heap?
+5. In a second Repeat Block, use a Pop Block. Again include a Show Heap Block.
+6. What happens to the heap?
+B. Record/Playback Graphics
+1. In the first Repeat Block, use two Push Blocks: one for pushing Cursor Y and one for pushing Cursor X.
+2. In the second Repeat Block, use two Pop Blocks as arguments to a SetXY block.
+3. Set both Repeat Blocks to repeat 100 times.
+4. What happens?
+5. What happens if you swap Cursor X and Cursor Y?
+6. Explore with the Reverse Heap Block between the two repeat blocks? Recall the discussion of FILO and FIFO.
+Break
+Part 2
+A. Record/Playback Music
+1. Use a Random Block to push notes onto the heap.
+2. Play back the composition using Pop Blocks.
+
+B. Heap Length and Index Heap
+1. Use the Heap Length Block in the second repeat loop.
+2. What does it do?
+3. Instead of using Pop, try using Index Heap. You’ll want to use a box to increment (or decrement) the index number.
+4. Use Index Heap to play back your composition multiple times. Try different transpositions each time.
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about heaps: how else could you use them?
+
+Extras:
+Experiment with Save Heap and Load Heap.
+
+Key events:
+Introduction of key concept: heap/push/pop/index
+The students create their own programs using arrays.
+
+Materials:
+Music Blocks software
+10+ sheets of paper
+
+Assessment:
+Observe participation.
+Do the compositions include creative use of heaps?
+
+
+
+
+
+
+
+
+
+
+© Copyright Walter Bender, 2020

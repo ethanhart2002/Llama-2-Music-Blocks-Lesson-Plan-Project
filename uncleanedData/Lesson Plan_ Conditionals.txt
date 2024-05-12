@@ -1,0 +1,78 @@
+Music Blocks Lesson Plan
+Conditionals
+Age:
+7-12 years
+Lesson duration:
+90 minutes
+Introduction: Simon Says (10m)
+Part 1: If/Then (20m)
+Break (5m)
+Part 2: Scalar Step (20m)
+Break (5m)
+Part 3: Explorations (20m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about the computational concept of a conditional and explore it within the musical concept of a scalar step.
+Objectives:
+Students will learn about a fundamental tool in computation, the conditional. Students will be able to utilize the conditional in the creation of interactive compositions.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about the concept of a conditional: if this is true, then do that.
+
+Start by choosing one student to be the leader. Have them play Simon in a game of Simon Says. Repeat the exercise, but now have the students clap whenever Simon doesn’t “say”.
+
+Discuss what is going on: Wen Simon “says”, do something. When Simon doesn’t “say”, don’t do anything or do something “else”.
+
+Part 1:
+If/Then/Else
+1. Ask the students to drag the If/Then/Else block from the Flow Palette.
+2. Have them guess what it might do.
+3. Have them drag the Mouse Button block from the Sensor Palette.
+4. Have them guess what it might do.
+5. Have them put two different Note blocks inside the If/Then/Else block and attach the Mouse Button Block to the ‘if’ slot.
+6. Place the If/Then/Else block inside of a Forever Block.
+7. Explore and make observations.
+Break
+Part 2
+A. Scalar Step
+1. Sing (or play) a sequence of notes: Do, Re, Mi, or Mi, Re, Do.
+2. Ask the students if you are going up or down in the scale.
+3. Repeat until they can explain the idea of going up or down.
+4. Mix it up and have the students indicate when you are going up or down.
+
+B. Scalar Step Block
+1. Drag two Scalar Step blocks from the Pitch Palette.
+2. Replace the pitches inside the Note Blocks in the program created in Part 1 with the Scalar Step Blocks.
+3. Change the argument to one of the Scalar Step blocks to -1.
+4. Add a starting Note Block before the Forever block.
+5. Explore and observe.
+Break
+Part 3:
+Explorations
+1. Add other blocks to the conditional and see what happens. Try changing volume, tempo, etc.
+(Some students may want to explore other conditionals, using the Boolean blocks and other sensors, such as Cursor x and Cursor Y.)
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about conditionals. How else can you use them?
+What are some other conditions than Mouse Button that might be fun to incorporate?
+Key events:
+Introduction of key concepts- lead and follow
+The use of action blocks to share code (melody)
+The use of the rest to create a delay
+The use of transpositions to make changes that remain familiar.
+
+Materials:
+Music Blocks software
+
+Assessment:
+Observe participation.
+Examine the code.
+Do the students use conditionals? Do the students use scalar step?
+
+
+
+
+
+© Copyright Walter Bender, 2020

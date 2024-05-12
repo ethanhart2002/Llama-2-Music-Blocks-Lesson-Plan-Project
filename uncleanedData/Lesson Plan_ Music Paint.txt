@@ -1,0 +1,55 @@
+Music Blocks Lesson Plan
+Music Paint
+Age:
+7-12 years
+Lesson duration:
+60 minutes
+Introduction: Can we tell our program what to do? (15m)
+Part 1: Input (20m)
+Break (5m)
+Part 2: Enhancements (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about different approaches to paint.
+Objectives:
+Students will understand how to use combine music and paint in an .
+LESSON
+Introduction: Can we tell our program what to do?
+
+Part 1: Using the Input block.
+
+
+
+
+Break
+Part 2: Enhancements
+
+
+
+
+
+
+Performance/Critique:
+1. Have each student talk how they used Input.
+2. Engage in a discussion about their different approaches.
+Key events:
+Introduction of key concepts: Input, interaction.
+Materials:
+Music Blocks software
+Assessment:
+Observe participation.
+Does the program perform as expected?
+
+
+
+
+© Copyright Walter Bender, 2020
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+Music Blocks Lesson Plan
+Broadcast
+Age:
+7-12 years
+Lesson duration:
+90 minutes
+Introduction: The Conductor (15m)
+Part 1: On-event-do exercise (15m)
+Break (5m)
+Part 2: Composing with Broadcast (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about the concept of broadcast. Then they’ll use the on-event-do block to control a multi-voice composition.
+Objectives:
+Students will understand what is meant by broadcast in computation and how it can be used in  music. Students will be able to utilize broadcast and events in programming and in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about broadcast.
+
+Choose one student to be the “conductor”. All of the other students will come up with a short composition: a clapping sequence, a few notes to sing, etc. The conductor will then say a student’s name out loud. When the student hears their name, they perform their composition. The conductor continues to say names, creating a composition of the various parts. It is OK if the parts overlap.
+
+What happens if the conductor calls out the name of someone who is not there?
+
+What happens if the conductor calls out the same name over and over very quickly?
+
+Explain that in Music Blocks, the way in which the conductor communicates to the “mice” is through the Broadcast block. The mice listen for the broadcast with the On-event-do block, which invokes an “action”.
+
+Discuss how they might use broadcast to create some art and music.
+
+Part 1:
+A. The Broadcast Block/The On-event-do Block
+1. Drag a Start Block from the Action Palette.
+2. Put a Broadcast Block Inside of a Forever Block.
+3. In a second Start Block, put a On-event-do Block.
+4. Create an action for the event.
+
+
+
+
+B. Interactive composition
+Instead of just one event, use One-of-this-or-that Block to broadcast multiple events to multiple mice.
+
+
+
+
+Break
+Part 2
+Composing with Broadcast
+The tricky part here is that you need to keep all of the mice on the same beat. To do that, we use the Mouse-sync Block to make sure we are on the same beat as the conductor.
+
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about heaps: how else could you use them?
+
+Key events:
+Introduction of key concept: broadcast
+The students create their own programs using events.
+
+Materials:
+Music Blocks software
+
+
+Assessment:
+Observe participation.
+Do the compositions include creative use of events?
+
+
+
+
+
+
+
+
+© Copyright Walter Bender, 2020
+
+
+
+
+
+
+

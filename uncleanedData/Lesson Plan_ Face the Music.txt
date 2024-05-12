@@ -1,0 +1,94 @@
+Music Blocks Lesson Plan
+Face the Music
+Age:
+7-12 years
+Lesson duration:
+60 minutes
+Introduction: facethemusic.io (15m)
+Part 1: Using boxes for parameters (15m)
+Break (5m)
+Part 2: Improve (15m)
+Performance/Critique (10m)
+Number of students: 
+Up to 10.
+Rationale:
+Students will learn about the concept of using variables as parameters to functions.
+Objectives:
+Students will understand what is meant by a parameter in computation and how it can be used in interactive music. Students will be able to utilize variables in programming and in composition.
+LESSON
+Introduction:
+Begin by asking students to sit in a circle and explain that in today's lesson they are going to learn about parameters.
+
+Start off by demonstrating the interactive music app at https://facethemusic.io.
+
+What makes the music change?
+
+Are there sensors involved?
+
+Explain that in Music Blocks, there are many ways to change the music on the tone and ornament palettes.
+
+Discuss how they might use sensors to change the numbers stored inside boxes and how the boxes can be used to change the “parameters” of the ornament blocks, which in turn, changes the music.
+
+Part 1:
+A. Using parameters.
+1. Drag a Start Block from the Action Palette.
+2. Use Store in Box 1 to store a 0
+3. Use Store in Box 2 to store an instrument
+4. Inside a Forever Block, build a short melody, where each note is placed inside of a Neighbor Block inside of a Set Instrument Block.
+5. Use Box 1 as the parameter to the Neighbor Block.
+6. Use Box 2 as the parameter to the Set Instrument Block.
+
+
+
+B. Interactive composition
+Now we’ll add a second mouse that we will use to change the values in the boxes.
+
+Grab another Start Block.
+Use an On-every-note-do Block to call an Action.
+Inside a Forever Block, play a drum or rhythmic pattern.
+
+
+
+
+Grab an Action Block.
+We’ll use the Cursor X Block as our sensor.
+Using If-then-else Blocks, set the values in the boxes, depending upon whether or not the cursor is on the left (< -200), right (> 200), or center.
+You can also use Avatar blocks to change the mouse appearance.
+ 
+
+Break
+Part 2
+Composing with Broadcast
+Experiment with different parameters.
+
+Performance/Critique:
+1. Have each student perform their composition.
+2. Engage in a discussion about heaps: how else could you use them?
+
+Key events:
+Introduction of key concept: parameters
+The students create their own interactive programs.
+
+Materials:
+Music Blocks software
+
+
+Assessment:
+Observe participation.
+Do the compositions include creative use of parameters?
+
+
+
+
+
+
+
+
+© Copyright Walter Bender, 2020
+
+
+
+
+
+
+
