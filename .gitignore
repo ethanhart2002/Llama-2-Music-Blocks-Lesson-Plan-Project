@@ -1,0 +1,5 @@
+# Ignore .bin files
+*.bin
+
+# Ignore virtual environment directory (replace venv with your virtual environment name)
+myvenv/
