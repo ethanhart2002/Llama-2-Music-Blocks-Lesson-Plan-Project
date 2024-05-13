@@ -3,3 +3,7 @@
 
 # Ignore virtual environment directory (replace venv with your virtual environment name)
 myvenv/
+
+# Ignore faiss directories
+faissNLTK/
+faissRecursive/
